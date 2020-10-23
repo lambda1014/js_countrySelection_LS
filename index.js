@@ -1,6 +1,4 @@
-// <⚠️ DONT DELETE THIS ⚠️>
-import "./styles.css";
-// <⚠️ /DONT DELETE THIS ⚠️>
+//import "./styles.css";
 const selectedCountry = document.querySelector(".js-country");
 const COUNTRY = "country";
 
